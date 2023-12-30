@@ -10,9 +10,9 @@
   
   - Test frameworks throughout the test automation pyramid & tech stack.
   - Functional testing, sure, but also:
-  - Performance 🐎
-  - Security 🔐
-  - Accessibility testing :accessibility:
-  - Interoperability 🧰
+    - Performance 🐎
+    - Security 🔐
+    - Accessibility testing 🚪
+    - Interoperability 🧰
 
 - 📫 HMU at www.linkedin.com/in/cjbriggs
